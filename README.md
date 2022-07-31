@@ -1,5 +1,8 @@
 # Python_Visualization_Case_Study
 This is my last project on Udacity Data Analyst Nanodegree. I was tasked with creating key insights from a dataset using python and libraries like numpy, pandas and seaborn. The dataset chosen for this project is a Loan dataset.
+
+## Domain
+The analysis is focused on financial Analystics
 ## Dataset
 This data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, borrower's Prosper rating, loan term, borrower's stated monthly income, as well as many other features such as borrower's employment status, debt to income ratio and many others.
 
