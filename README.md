@@ -96,10 +96,10 @@ Here are the columns used for my visualizations.
 
 ### Key Insights for Presentation
 
-1. The prosper loan dataset is highly inter related but the relations that stood out are:
+The prosper loan dataset is highly inter related but the relations that stood out are:
 
-2. The BorrowerAPR is negatively correlated with the prosper rating, the BorrowerAPR also follows the same trend as the LenderYield
+1. The BorrowerAPR is negatively correlated with the prosper rating, the BorrowerAPR also follows the same trend as the LenderYield
 
-3. The prosperRating is strongly affected by the BorrowerAPR, stated monthly income and loan original amount
+2. The prosperRating is strongly affected by the BorrowerAPR, stated monthly income and loan original amount
 
-4. Borrowers with low income have their loans chargedoff or they default them.
+3. The main reason for loans being chargedoff or defaulted was that borrowers had low income or large BorrowerAPR.
