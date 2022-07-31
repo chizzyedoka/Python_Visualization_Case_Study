@@ -1,5 +1,5 @@
 # Python_Visualization_Case_Study
-This is my last project on Udacity Data Analyst Nanodegree. I was tasked with creating key insights from a dataset using python and libraries like numpy, pandas and seaborn. The dataset chosen for this project is a Loan dataset.
+This is my last project on Udacity Data Analyst Nanodegree. I was tasked with creating key insights from a dataset using python and libraries like numpy, pandas, matplotlib and seaborn. The dataset chosen for this project is a Loan dataset and can be found [here](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv%26amp;sa%3DD%26amp;ust%3D1581581520570000&sa=D&source=editors&ust=1659252288599708&usg=AOvVaw0b7thLZuqJvV-kC3MFXq3k)
 
 ## Domain
 The analysis is focused on financial Analystics
